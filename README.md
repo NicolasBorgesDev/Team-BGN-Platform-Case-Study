@@ -105,7 +105,7 @@ The public portal was designed to delight users with gamer aesthetics, featuring
 ---
 
 <p align="center">
-  *[ 🖼️ ESPAÇO PARA A FOTO DO DASHBOARD ADMINISTRATIVO/ERP: Arraste e solte a imagem do seu computador aqui ]*
+  
 </p>
 
 ---
